@@ -28,9 +28,9 @@ Welcome to my GitHub profile. I am an aspiring software engineer with a keen int
 
 ## Small Achievements 🏅
 
+* [HTML & CSS](https://freecofication/fcc64b80d6c-37f4-4421-8fe2-6f7a523f50d7/responsive-web-design) Responsive web design certificate.
 * [C](https://api2.sololearn.com/v2/certificates/CC-MGPHUFNT/image/png) language beginner certificate.
 * [C](https://api2.sololearn.com/v2/certificates/CC-ZXL6BO35/image/png) language intermediate certificate.
-* [HTML & CSS](https://freecofication/fcc64b80d6c-37f4-4421-8fe2-6f7a523f50d7/responsive-web-design) Responsive web design certificate.
 <p>&nbsp;</p>
 
 ## Let's Connect 📬
