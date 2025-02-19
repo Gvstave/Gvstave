@@ -6,23 +6,39 @@ Welcome to my GitHub profile. I am an aspiring software engineer with a keen int
 
 ## Technologies & Tools 🔧
 
-### For Web Development
+### **Programming Languages**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-* Frontend: HTML, CSS, BootStrap,  Javascript, React(learning), jQuery(learning)
-* Backend: Node.js(learning), Express(learning), Python, Django(learning)
-* Databases: MySQL, MongoDB
+### **Frameworks**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### For Operating System (R&D)
+### **Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-* Frontend: HTML, CSS, BootStrap, javascript
-* Kernel: C/C++, rust(learning), [Chromium OS](https://www.chromium.org/chromium-os/chromiumos-design-docs/chromium-os-kernel/), linux kernel
-<p>&nbsp;</p>
+## GitHub Stats 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gvstave&show_icons=true&theme=bright_lights" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gvstave&theme=bright_lights" width="400px"/>
+</p>
 
 ## Currently Learning 🌱
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
 * linux kernel concepts and other OS related stuffs
 * rust for use in system level programming
-* react, jQuery, Express and Node.js
+* Express.js and Node.js
 * python; for the fun of it.
 <p>&nbsp;</p>
 
