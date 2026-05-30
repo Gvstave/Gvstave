@@ -27,7 +27,6 @@ Welcome to my GitHub profile. I am an aspiring software engineer with a keen int
 ## GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gvstave&show_icons=true&theme=bright_lights" width="400px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gvstave&theme=bright_lights" width="400px"/>
 </p>
 
